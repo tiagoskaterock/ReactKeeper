@@ -8,4 +8,4 @@ This project is made using reacts and tries to clone Google Keep App
 
 3 - npm start
 
-![React Keeper App](img/1.png)
+![React Keeper App](src/img/1.png)
