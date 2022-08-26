@@ -5,7 +5,9 @@ let year = d.getFullYear();
 
 function Footer() {
     return (
-        <p>Copyright {year} - React Keeper App</p>
+        <footer>
+            <p>Copyright {year} - React Keeper App</p>
+        </footer>        
     )
 }
 
